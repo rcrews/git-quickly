@@ -1,2 +1,2 @@
 # git-quickly
-try working with horendous github remote
+try working This Very horendous github remote
