@@ -1,2 +1,2 @@
 # git-quickly
-try working with github remote
+try working with funny github remote
